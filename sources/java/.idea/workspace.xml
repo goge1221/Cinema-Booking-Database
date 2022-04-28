@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="71f7a35c-9c2b-466b-973e-2bac64f909bb" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="21ljQJMce3xgUjSRCMA6FSrePnK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="oracle" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="JavaSqlExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaSqlExample" />
+      <module name="Java new" />
+      <option name="PROGRAM_PARAMETERS" value="add" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JavaSqlExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71f7a35c-9c2b-466b-973e-2bac64f909bb" name="Changes" comment="" />
+      <created>1638522552296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638522552296</updated>
+      <workItem from="1638522555706" duration="61000" />
+      <workItem from="1638892219734" duration="1138000" />
+      <workItem from="1638970166319" duration="1317000" />
+      <workItem from="1638971510743" duration="1540000" />
+      <workItem from="1639210533140" duration="3881000" />
+      <workItem from="1639422807538" duration="51000" />
+      <workItem from="1639422880505" duration="15000" />
+      <workItem from="1639424152087" duration="4179000" />
+      <workItem from="1639472770950" duration="257000" />
+      <workItem from="1639502086450" duration="398000" />
+      <workItem from="1640698109266" duration="17000" />
+      <workItem from="1640773282412" duration="9260000" />
+      <workItem from="1640982753721" duration="6476000" />
+      <workItem from="1641113189873" duration="1662000" />
+      <workItem from="1641114984690" duration="8841000" />
+      <workItem from="1641148739514" duration="7768000" />
+      <workItem from="1641469142197" duration="2394000" />
+      <workItem from="1641479145487" duration="161000" />
+      <workItem from="1641550719693" duration="1231000" />
+      <workItem from="1642503352461" duration="523000" />
+      <workItem from="1642688328592" duration="943000" />
+      <workItem from="1642757241992" duration="4476000" />
+      <workItem from="1642770715457" duration="648000" />
+      <workItem from="1642771441617" duration="176000" />
+      <workItem from="1642779614891" duration="34000" />
+      <workItem from="1642783105452" duration="52000" />
+      <workItem from="1642838973586" duration="968000" />
+      <workItem from="1642935685962" duration="22000" />
+      <workItem from="1643026213453" duration="6000" />
+      <workItem from="1643026368551" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
